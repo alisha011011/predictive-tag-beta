@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root datatype="tag-learn-data" comment="default learn data file">
+  <item score="2">
+    <keyword>art</keyword>
+    <suggest>artistry</suggest>
+  </item>
+  <item score="1">
+    <keyword>art</keyword>
+    <suggest>craft</suggest>
+  </item>
+  <item score="1">
+    <keyword>bird</keyword>
+    <suggest>fowl</suggest>
+  </item>
+  <item score="1">
+    <keyword>cheerful</keyword>
+    <suggest>upbeat</suggest>
+  </item>
+  <item score="2">
+    <keyword>field</keyword>
+    <suggest>meadow</suggest>
+  </item>
+  <item score="1">
+    <keyword>field</keyword>
+    <suggest>pasture</suggest>
+  </item>
+  <item score="1">
+    <keyword>field</keyword>
+    <suggest>grassland</suggest>
+  </item>
+  <item score="2">
+    <keyword>happy</keyword>
+    <suggest>cheerful</suggest>
+  </item>
+  <item score="2">
+    <keyword>house</keyword>
+    <suggest>building</suggest>
+  </item>
+  <item score="1">
+    <keyword>house</keyword>
+    <suggest>dwelling</suggest>
+  </item>
+  <item score="1">
+    <keyword>nothing</keyword>
+    <suggest>empty</suggest>
+  </item>
+  <item score="1">
+    <keyword>nothing</keyword>
+    <suggest>0</suggest>
+  </item>
+  <item score="3">
+    <keyword>residence</keyword>
+    <suggest>house</suggest>
+  </item>
+  <item score="3">
+    <keyword>river</keyword>
+    <suggest>stream</suggest>
+  </item>
+  <item score="1">
+    <keyword>river</keyword>
+    <suggest>estuary</suggest>
+  </item>
+  <item score="1">
+    <keyword>river</keyword>
+    <suggest>brook</suggest>
+  </item>
+  <item score="3">
+    <keyword>storm</keyword>
+    <suggest>blizzard</suggest>
+  </item>
+  <item score="3">
+    <keyword>storm</keyword>
+    <suggest>hurricane</suggest>
+  </item>
+  <item score="1">
+    <keyword>storm</keyword>
+    <suggest>gale</suggest>
+  </item>
+  <item score="3">
+    <keyword>zero</keyword>
+    <suggest>nothing</suggest>
+  </item>
+  <item score="2">
+    <keyword>zero</keyword>
+    <suggest>0</suggest>
+  </item>
+  <item score="1">
+    <keyword>zero</keyword>
+    <suggest>null</suggest>
+  </item>
+  <item score="1">
+    <keyword>zero</keyword>
+    <suggest>empty</suggest>
+  </item>
+  <item score="1">
+    <keyword>acrylic</keyword>
+    <suggest>art</suggest>
+  </item>
+  <item score="1">
+    <keyword>paint</keyword>
+    <suggest>art</suggest>
+  </item>
+  <item score="1">
+    <keyword>paint</keyword>
+    <suggest>painting</suggest>
+  </item>
+  <item score="1">
+    <keyword>paint</keyword>
+    <suggest>painter</suggest>
+  </item>
+  <item score="1">
+    <keyword>paint</keyword>
+    <suggest>paintbrush</suggest>
+  </item>
+  <item score="1">
+    <keyword>paint</keyword>
+    <suggest>acrylic paint</suggest>
+  </item>
+  <item score="1">
+    <keyword>paint</keyword>
+    <suggest>watercolor</suggest>
+  </item>
+  <item score="1">
+    <keyword>paint</keyword>
+    <suggest>color</suggest>
+  </item>
+  <item score="1">
+    <keyword>paint</keyword>
+    <suggest>paint can</suggest>
+  </item>
+</root>
